@@ -33,23 +33,23 @@ Untuk menjamin standardisasi metrik yang objektif di seluruh ekosistem digital, 
 
   avg_completion_rate = AVERAGE(Data[Completion_Rate])
 
-##📈 Executive Insights & Key Findings
-###📊 Platform Performance Breakdown
+## 📈 Executive Insights & Key Findings
+### 📊 Platform Performance Breakdown
 - X / Twitter: Mendominasi volume trafik secara masif dengan menyumbang 331K+ interaksi (45,6% dari total ekosistem) serta mencetak ER Reach tertinggi di angka 23%.
 - TikTok: Tampil sebagai platform paling efisien dari segi kualitas interaksi dengan memimpin angka konversi klik (CTR 8%) dan tingkat retensi audiens tertinggi (55%).
 - YouTube: Mencatatkan performa terendah dengan kontribusi hanya 65K interaksi dan 6,60% ER Reach, menandakan perlunya evaluasi teknis pada strategi distribusi video.
   
 
-###🎨 Content Format & Distribution Matrix
+### 🎨 Content Format & Distribution Matrix
 - The Reach Drivers: Format Thread dan Reels mencatatkan ER Reach tertinggi (25-28%), menjadikannya senjata terbaik untuk mengakuisisi audiens baru.
 - The Retention Leaders: Format Carousel serta Text + Image memimpin pada tingkat retensi penonton hingga 68%, membuktikan bahwa audiens sangat meminati isi konten yang mendalam meskipun algoritmanya terbatas.
 - Paid Advertising ROI: Pengeluaran anggaran iklan (Ad Spend) terbukti efektif dan sehat. Dorongan promosi berhasil menaikkan nilai ER Reach dari 14,44% (baseline organik) menjadi 16,31%, serta mengerek ER Impressions menjadi 11,11%.
 
 
-###⏰ Audience Behavior & Scheduling
+### ⏰ Audience Behavior & Scheduling
 Volume interaksi tertinggi terkonsentrasi secara konsisten pada hari Senin (0.23M) dan Kamis (0.17M), sementara hari Rabu (0.02M) menjadi titik jenuh terendah.
 
-###💡 Strategic Roadmap & Action Plan
+### 💡 Strategic Roadmap & Action Plan
 - **Amplify Success:** Meningkatkan volume produksi Twitter Threads dan Instagram Reels secara konsisten untuk mempertahankan dominasi jangkauan unik baru.
 - **Duplicate Formula:** Mengadopsi struktur storytelling dan pola penahanan retensi video TikTok ke platform lain guna mendongkrak efisiensi konversi (CTR) secara makro.
 - **Optimize Hooks:** Melakukan perbaikan teknis pada 5 detik pertama konten YouTube untuk mengatasi tingginya drop-off rate (durasi tonton rendah 44%).
