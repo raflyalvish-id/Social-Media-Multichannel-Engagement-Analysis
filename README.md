@@ -30,7 +30,7 @@ Untuk menjamin standardisasi metrik yang objektif di seluruh ekosistem digital, 
   ```dax
   ctr_dax = DIVIDE(SUM(Data[Clicks]), SUM(Data[Impressions]), 0)
 * **Average Completion Rate:** Mengukur tingkat ketahanan durasi tontonan audiens pada format video.
-
+  ```dax
   avg_completion_rate = AVERAGE(Data[Completion_Rate])
 
 ## 📈 Executive Insights & Key Findings
