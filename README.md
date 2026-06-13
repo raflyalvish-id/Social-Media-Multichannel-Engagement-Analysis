@@ -12,8 +12,8 @@ Project ini berfokus pada analisis performa konten media sosial lintas platform 
 ---
 
 ## 📂 Project Resources (Quick Links)
-- 📊 **[Download Power BI Dashboard File (Social Media Analytics.pbix)](#)** *(Tautkan ke file .pbix kamu jika di-upload)*
-- 📄 **[View Full Presentation Deck (Social Media Engagement Analysis.pdf)](#)** *(Tautkan ke file PDF slide kamu)*
+- 📊 **[Download Power BI Dashboard File (Social Media Analytics.pbix)]**
+- 📄 **[View Full Presentation Deck (Social Media Engagement Analysis.pdf)]** 
 
 ---
 
